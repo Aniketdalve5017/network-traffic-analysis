@@ -21,10 +21,10 @@ Analyzed network traffic using Wireshark and Kali Linux to inspect DNS, TCP, and
 ## Screenshots
 
 ### DNS Traffic
-![DNS]dns-traffic.png
+![DNS Traffic](screenshots/dns-traffic.png)
 
 ### TCP Analysis
-![TCP](screenshots/tcp-analysis.png)
+![TCP Analysis](screenshots/tcp-analysis.png)
 
 ### HTTP Traffic
-![HTTP](screenshots/http-traffic.png)
+![HTTP Traffic](screenshots/http-traffic.png)
